@@ -2,3 +2,8 @@ irisenv/
 __pycache__/ 
 *.pyc 
 yolov8x.pt 
+.venv/
+__pycache__/
+*.pyc
+models/
+datasets/
