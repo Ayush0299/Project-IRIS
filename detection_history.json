@@ -1,32 +1,32 @@
 [
   {
     "Mode": "Image",
-    "Detected": "person, couch",
-    "Caption": "a girl sitting on a couch with a laptop",
-    "Time": "2025-11-19 22:53:02"
-  },
-  {
-    "Mode": "Image",
-    "Detected": "person, couch",
+    "Detected": "Pothole, dog, person",
     "Caption": "",
-    "Time": "2025-11-19 22:56:01"
+    "Time": "2026-02-25 10:20:31"
   },
   {
     "Mode": "Image",
-    "Detected": "person, couch",
-    "Caption": "a girl sitting on a couch with a laptop",
-    "Time": "2025-11-19 22:56:20"
-  },
-  {
-    "Mode": "Image",
-    "Detected": "person, couch",
+    "Detected": "Pothole",
     "Caption": "",
-    "Time": "2025-11-19 22:58:19"
+    "Time": "2026-02-25 10:25:23"
   },
   {
     "Mode": "Image",
-    "Detected": "person, couch",
-    "Caption": "a girl sitting on a couch with a laptop",
-    "Time": "2025-11-19 22:58:36"
+    "Detected": "Pothole",
+    "Caption": "a pothole in the road",
+    "Time": "2026-02-25 10:25:35"
+  },
+  {
+    "Mode": "Image",
+    "Detected": "dog, person",
+    "Caption": "",
+    "Time": "2026-02-25 10:26:55"
+  },
+  {
+    "Mode": "Image",
+    "Detected": "dog, person",
+    "Caption": "a man sitting in the grass with his dog",
+    "Time": "2026-02-25 10:27:10"
   }
 ]
