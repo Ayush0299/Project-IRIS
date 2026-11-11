@@ -2,8 +2,52 @@ irisenv/
 __pycache__/ 
 *.pyc 
 yolov8x.pt 
-.venv/
 __pycache__/
 *.pyc
 models/
+
+
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs and history (generated files)
+*.log
+data/logs.json
+history/
+detection_history.json
+
+# Dataset (large files)
 datasets/
+
+# Model weights (large files)
+*.pt
+*.pth
+*.onnx
+
+# Temporary files
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
